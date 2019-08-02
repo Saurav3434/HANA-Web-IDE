@@ -1,3 +1,3 @@
 # saurav
 
-Integrating SAp Web IDE with Git HUB
+Integrating SAP HANA Web IDE with Git HUB
